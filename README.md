@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @TechBro-Sam
-- 👀 I’m interested in ... WEB DEVELOPMENT
-- 🌱 I’m currently learning ... WEB DEVELOPMENT
-- 💞️ I’m looking to collaborate on ... JAVAVSCRIPT
-- 📫 How to reach me ... OPEMIPOAWOPEJO@GMAIL.COM
-- 😄 Pronouns: ...HE/HIM
-- ⚡ Fun fact: ...CODING IS FUN TRUST ME
+I develop Web Site
+I'm in handy with :
+HTML
+CSS
+JAVASCRIPT
+REACT.JS
+NODE.JS(EXPRESS.JS)
 
 <!---
 TechBro-Sam/TechBro-Sam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
